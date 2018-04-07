@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523037131 source:c:\users\lukul\onedrive\pulpit\mymath\mymath\main.cpp
+	<iostream>
+	"mymath.h"
+	<cstdlib>
+
+1523121431 c:\users\lukul\onedrive\pulpit\mymath\mymath\mymath.h
+
+1523121396 source:c:\users\lukul\onedrive\pulpit\mymath\mymath\mymath.cpp
+	<iostream>
+	<cmath>
+	<vector>
+
