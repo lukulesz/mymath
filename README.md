@@ -11,7 +11,7 @@
 
 ## **Sphere Volume**
 #### double Sphere_vol(double);
-######radius - radius of sphere
+###### radius - radius of sphere
 
 ## **Power**
 #### int Power(int, int);
